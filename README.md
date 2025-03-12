@@ -1,2 +1,2 @@
-# Image-Recognition-by-Metalog
-Using metalog statistic method to do image recognition
+# Image-Recognition-By-Different-Statistical-Methods
+Using different statistic methods to do image recognition
