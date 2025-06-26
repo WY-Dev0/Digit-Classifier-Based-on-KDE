@@ -1,2 +1,2 @@
-![image](https://github.com/user-attachments/assets/72b3c379-17c1-4441-ae30-a250cb309e4e)![image](https://github.com/user-attachments/assets/72b3c379-17c1-4441-ae30-a250cb309e4e)# Digit-Classifier-based-on-KDE
+# Digit-Classifier-Based-on-KDE
 Presents a novel approach to handwritten digit classification on the MNIST dataset using Kernel Density Estimation (KDE) combined with advanced preprocessing techniques. Our method achieves 89% accuracy on both training and test sets, significantly outperforming traditional KDE-based approaches, which typically achieve 84% accuracy. The key innovations include a sophisticated preprocessing pipeline combining PCA, ICA, mutual information-based feature selection, and Jensen-Shannon divergence-weighted pixel importance scoring.
